@@ -6,11 +6,11 @@
 
 **Netdata**是一个**分散式、实时的系统和应用程序的性能运行情况监控软件**. 他是一套能够在您系统和容器上安装的经过高度优化的监控程序。
 
-Netdata使用高度交互的Web仪表板，实时提供其运行的系统（包括Web服务器，数据库，应用程序）上发生的所有事情的无与伦比的见解。 它可以自动运行，无需任何第三方组件，也可以集成到现有的监控工具链（Prometheus，Graphite，OpenTSDB，Kafka，Grafana等）。
+Netdata使用高度交互的Web仪表板，实时提供其运行的系统（包括Web服务器，数据库，应用程序）上所有情况。 它可以自动运行，无需任何第三方组件，也可以集成到现有的监控工具链（Prometheus，Graphite，OpenTSDB，Kafka，Grafana等）。
 
 Netdata快速高效，旨在永久运行在所有系统（物理和虚拟服务器，容器，物联网设备）上，而不会破坏其核心功能。
 
-Netdata是免费的开源软件，目前可在Linux，FreeBSD和MacOS上运行。  
+Netdata是免费的开源软件，目前可在**Linux，FreeBSD**和**MacOS**上运行。  
 
 ![cncf](https://www.cncf.io/wp-content/uploads/2016/09/logo_cncf.png)  
 
